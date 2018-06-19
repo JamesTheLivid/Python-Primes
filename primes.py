@@ -14,7 +14,7 @@ file.py maxNum, i
 
 import math, sys, os
 
-maxNum = 100
+maxNum = 10000000
 
 #Only if graphOutput == False
 graphOutput = True
